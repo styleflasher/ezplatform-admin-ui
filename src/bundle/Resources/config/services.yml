@@ -13,6 +13,7 @@ imports:
     - { resource: services/siteaccess.yml }
     - { resource: services/universal_discovery_widget.yml }
     - { resource: services/utils.yml }
+    - { resource: services/translation.yml }
 
 parameters:
 
